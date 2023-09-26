@@ -1,6 +1,6 @@
 # AI Image Generator
 
-This app implements image generation using AI (OpenAI) and shows how to drag and drop those images to a Miro Board.
+This app implements image generation using AI (OpenAI) and shows how to drag and drop those images to a Miro Board. 
 
 # 👨🏻‍💻 App Demo
 
